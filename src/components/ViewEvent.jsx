@@ -84,7 +84,7 @@ const ViewEvent = () => {
               <button
                 className="bg-green-500 hover:text-black cursor-pointer text-white w-full sm:w-[191px] h-[45px] gap-[4px] rounded-[8px] px-[16px] py-[10px] bg-opacity-70 shadow-[4px_4px_2px_0px_rgba(0,0,0,0.25)] mt-2 sm:mt-0"
                 onClick={() =>
-                  (window.location.href = `https://fusshn-web.netlify.app/checkout?eventId=${eventId}`)
+                  (window.location.href = `/checkout?eventId=${eventId}`)
                 }
               >
                 Book Now
