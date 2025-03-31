@@ -1,0 +1,137 @@
+// Event-1
+
+            id: "prateek",
+            name: "Prateek Kuhad Silhouettes Tour - Gurgaon",
+            city: "Gurugram",
+            startTime: "2025-11-03T11:00:00.000",
+            endTime: "2025-11-03T17:00:00.000",
+            eventLocation: "Airia Mall: Gurugram",
+            singerposterUrl: "https://facemagazine.in/wp-content/uploads/2023/05/8.png",
+            date: "Sun, 26 March 2025",
+            duration: "3 Hours",
+            venue: "Mahalaxmi Lawns",
+            description: "Akin to painting on a blank canvas, singer, songwriter, and producer",
+            language: ["English", "Hindi"],
+            ageLimit: "18 yrs+",
+            ageRestrictions: 16,
+            seatingArrangement: "Indoor",
+            layout: "Indoor",
+            parking: "Available",
+            artist: {
+                name: "Prateek Kuhad",
+                image: "https://facemagazine.in/wp-content/uploads/2023/05/8.png",
+                aboutLink: "About Artist"
+            },
+            venueDetails: {
+                description: "Lorem ipsum dolor sit amet...",
+                locationUrl: "https://g.co/kgs/imvQqyn",
+                mapImage: "map.png"
+            },
+            termsAndConditions: [
+                "The ticket is a revocable license to enter the event and is subject to the terms.",
+                "The ticket holder agrees to comply with all rules and regulations of the festival.",
+                "The ticket holder voluntarily assumes all risk and danger incidental to the event.",
+                "The event promoter reserves the right to refuse admission or eject any person.",
+                "The event promoter is not responsible for lost or stolen items.",
+                "The event promoter may use any photos or videos taken at the event for promotion.",
+                "The event promoter reserves the right to change the lineup, schedule, or location.",
+                "The ticket holder agrees to submit to a reasonable search for prohibited items.",
+                "The ticket holder may not bring outside food, drink, or illegal substances.",
+                "The ticket holder may not resell or transfer their ticket without permission."
+            ],
+            frequentlyAskedQuestions: [
+                {
+                    question: "What is the event timing?",
+                    answer: "The event starts at 12:00 PM and lasts for 3 hours."
+                },
+                {
+                    question: "Is parking available?",
+                    answer: "Yes, parking is available at the venue."
+                },
+                {
+                    question: "Can I bring outside food?",
+                    answer: "No, outside food is not allowed."
+                },
+                {
+                    question: "Are tickets transferable?",
+                    answer: "No, tickets are non-transferable."
+                }
+            ],
+            imagesUrls: [
+                "https://firebasestorage.googleapis.com/v0/b/fusshn-aef8e.appspot.com/o/image1.jpg",
+                "https://firebasestorage.googleapis.com/v0/b/fusshn-aef8e.appspot.com/o/image2.jpg",
+                "https://firebasestorage.googleapis.com/v0/b/fusshn-aef8e.appspot.com/o/image3.jpg"
+            ],
+            organiserName: "HTC Unwind",
+            posterUrl: "https://res.cloudinary.com/dnbv08u0m/image/upload/v1743412958/wp10098422-prateek-kuhad-wallpapers_xbiwh5.jpg",
+            price: "₹499 Onwards",
+            recommendedEvents: [
+                {
+                    poster: "https://res.cloudinary.com/dnbv08u0m/image/upload/v1743393628/mainarijitsinghdelhiconcert-1738423262_ehypw7.jpg",
+                    name: "Arijit Singh Live - Delhi",
+                    date: "12/10/2025, 6:00:00 PM",
+                    venue: "JLN Stadium, Delhi"
+                }
+            ],
+            tags: ["Live Music"]
+
+        // Event-2
+
+            id: "arijit",
+            name: "Arijit Singh Live - Delhi",
+            city: "Delhi",
+            startTime: "2025-12-10T18:00:00.000",
+            endTime: "2025-12-10T22:00:00.000",
+            eventLocation: "JLN Stadium, Delhi",
+            singerposterUrl: "https://res.cloudinary.com/dnbv08u0m/image/upload/v1743393628/mainarijitsinghdelhiconcert-1738423262_ehypw7.jpg",
+            date: "Wed, 10 December 2025",
+            duration: "2 Hours",
+            venue: "JLN Stadium",
+            description: "Experience the soulful voice of Arijit Singh live in concert.",
+            language: ["Hindi"],
+            ageLimit: "13 yrs+",
+            ageRestrictions: 18,
+            seatingArrangement: "Outdoor",
+            layout: "Outdoor",
+            parking: "Available",
+            artist: {
+                name: "Arijit Singh",
+                image: "https://res.cloudinary.com/dnbv08u0m/image/upload/v1743393566/arijit_yuxifk.png",
+                aboutLink: "About Artist"
+            },
+            venueDetails: {
+                description: "A grand venue for live concerts.",
+                locationUrl: "https://maps.app.goo.gl/igFcu3f1tR4CaY458",
+                mapImage: "map2.png"
+            },
+            termsAndConditions: [
+                "No refunds on purchased tickets.",
+                "Entry only for ticket holders.",
+                "Outside food and drinks are not allowed."
+            ],
+            frequentlyAskedQuestions: [
+                {
+                    question: "What is the event timing?",
+                    answer: "The event starts at 6:00 PM and ends at 10:00 PM."
+                },
+                {
+                    question: "Is parking available?",
+                    answer: "Yes, parking is available at the venue."
+                }
+            ],
+            imagesUrls: [
+                "https://example.com/image4.jpg",
+                "https://example.com/image5.jpg"
+            ],
+            organiserName: "Music Mania",
+            posterUrl: "https://res.cloudinary.com/dnbv08u0m/image/upload/v1743393628/mainarijitsinghdelhiconcert-1738423262_ehypw7.jpg",
+            price: "₹999 Onwards",
+            recommendedEvents: [
+                {
+                    poster: "https://facemagazine.in/wp-content/uploads/2023/05/8.png",
+                    name: "Prateek Kuhad Silhouettes Tour - Gurgaon",
+                    date: "11/3/2025, 11:00:00 AM",
+                    venue: "Airia Mall: Gurugram"
+                }
+            ],
+            tags: ["Bollywood", "Live Music"]
